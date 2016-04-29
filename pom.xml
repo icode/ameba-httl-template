@@ -50,6 +50,12 @@
             <version>${ameba.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.amebastack.module</groupId>
+            <artifactId>ameba-dev</artifactId>
+            <version>${ameba.version}</version>
+            <scope>provided</scope>
+        </dependency>
         <!-- httl template -->
         <dependency>
             <groupId>org.amebastack.template</groupId>
