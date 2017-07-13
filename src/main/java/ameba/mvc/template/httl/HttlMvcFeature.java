@@ -11,7 +11,7 @@ import com.google.common.collect.Sets;
 import httl.Engine;
 import httl.util.BeanFactory;
 import org.apache.commons.lang3.StringUtils;
-import org.glassfish.hk2.utilities.binding.AbstractBinder;
+import org.glassfish.jersey.internal.inject.AbstractBinder;
 
 import javax.ws.rs.ConstrainedTo;
 import javax.ws.rs.RuntimeType;
